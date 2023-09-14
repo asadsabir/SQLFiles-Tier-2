@@ -128,10 +128,13 @@ QUESTIONS:
 The output of facility name and total revenue, sorted by revenue. Remember
 that there's a different cost for guests and members! */
 
+
+
 /* Q11: Produce a report of members and who recommended them in alphabetic surname,firstname order */
 
 
 /* Q12: Find the facilities with their usage by member, but not guests */
+
 
 
 /* Q13: Find the facilities usage by month, but not guests */
